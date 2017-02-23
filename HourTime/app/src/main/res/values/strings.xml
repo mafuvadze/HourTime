@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HourTime</string>
+    <string name="title_activity_calendar">Calendar</string>
+    <string name="title_activity_class_search">classSearch</string>
 </resources>
